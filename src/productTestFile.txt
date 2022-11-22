@@ -1,0 +1,3 @@
+000001, Spaceship, travel to space, 99999.0
+000002, Fidgit spinner, they were cool at one point, 3.0
+000003, contactless trash can, the ones are uc are cool, 99.0
